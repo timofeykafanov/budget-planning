@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.96a0bf7c.css",
-    "main.js": "/react-gh-pages/static/js/main.cd9f75ed.js",
-    "static/js/787.5d8ff73b.chunk.js": "/react-gh-pages/static/js/787.5d8ff73b.chunk.js",
-    "static/media/Robotoblack.woff": "/react-gh-pages/static/media/Robotoblack.eab3a566ce722e08e453.woff",
-    "static/media/Robotobold.woff": "/react-gh-pages/static/media/Robotobold.1e0c22679977ac02c8f6.woff",
-    "static/media/Robotomedium.woff": "/react-gh-pages/static/media/Robotomedium.5673e7a07239f4785325.woff",
-    "static/media/Robotolight.woff": "/react-gh-pages/static/media/Robotolight.8c9edc306f9c77537804.woff",
-    "static/media/Roboto.woff": "/react-gh-pages/static/media/Roboto.59d18e163bfcd0607572.woff",
-    "static/media/background.svg": "/react-gh-pages/static/media/background.f1346c218abf2de891bf.svg",
-    "static/media/Robotoblack.woff2": "/react-gh-pages/static/media/Robotoblack.3f8e10eb65de9fbcc5cc.woff2",
-    "static/media/Robotobold.woff2": "/react-gh-pages/static/media/Robotobold.23c8ce07bd38f6723622.woff2",
-    "static/media/Robotomedium.woff2": "/react-gh-pages/static/media/Robotomedium.76cb645b72a0083e239f.woff2",
-    "static/media/Robotolight.woff2": "/react-gh-pages/static/media/Robotolight.95ff440a51f48ad36a98.woff2",
-    "static/media/Roboto.woff2": "/react-gh-pages/static/media/Roboto.806e04d8241d87f99a68.woff2",
-    "index.html": "/react-gh-pages/index.html",
-    "main.96a0bf7c.css.map": "/react-gh-pages/static/css/main.96a0bf7c.css.map",
-    "main.cd9f75ed.js.map": "/react-gh-pages/static/js/main.cd9f75ed.js.map",
-    "787.5d8ff73b.chunk.js.map": "/react-gh-pages/static/js/787.5d8ff73b.chunk.js.map"
+    "main.css": "/budget-planning/static/css/main.80ab0c62.css",
+    "main.js": "/budget-planning/static/js/main.96240a8a.js",
+    "static/js/787.5d8ff73b.chunk.js": "/budget-planning/static/js/787.5d8ff73b.chunk.js",
+    "static/media/Robotoblack.woff": "/budget-planning/static/media/Robotoblack.eab3a566ce722e08e453.woff",
+    "static/media/Robotobold.woff": "/budget-planning/static/media/Robotobold.1e0c22679977ac02c8f6.woff",
+    "static/media/Robotomedium.woff": "/budget-planning/static/media/Robotomedium.5673e7a07239f4785325.woff",
+    "static/media/Robotolight.woff": "/budget-planning/static/media/Robotolight.8c9edc306f9c77537804.woff",
+    "static/media/Roboto.woff": "/budget-planning/static/media/Roboto.59d18e163bfcd0607572.woff",
+    "static/media/background.svg": "/budget-planning/static/media/background.f1346c218abf2de891bf.svg",
+    "static/media/Robotoblack.woff2": "/budget-planning/static/media/Robotoblack.3f8e10eb65de9fbcc5cc.woff2",
+    "static/media/Robotobold.woff2": "/budget-planning/static/media/Robotobold.23c8ce07bd38f6723622.woff2",
+    "static/media/Robotomedium.woff2": "/budget-planning/static/media/Robotomedium.76cb645b72a0083e239f.woff2",
+    "static/media/Robotolight.woff2": "/budget-planning/static/media/Robotolight.95ff440a51f48ad36a98.woff2",
+    "static/media/Roboto.woff2": "/budget-planning/static/media/Roboto.806e04d8241d87f99a68.woff2",
+    "index.html": "/budget-planning/index.html",
+    "main.80ab0c62.css.map": "/budget-planning/static/css/main.80ab0c62.css.map",
+    "main.96240a8a.js.map": "/budget-planning/static/js/main.96240a8a.js.map",
+    "787.5d8ff73b.chunk.js.map": "/budget-planning/static/js/787.5d8ff73b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.96a0bf7c.css",
-    "static/js/main.cd9f75ed.js"
+    "static/css/main.80ab0c62.css",
+    "static/js/main.96240a8a.js"
   ]
 }
