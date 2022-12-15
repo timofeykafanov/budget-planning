@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/budget-planning/static/css/main.80ab0c62.css",
+    "main.css": "/budget-planning/static/css/main.9ad58150.css",
     "main.js": "/budget-planning/static/js/main.96240a8a.js",
     "static/js/787.5d8ff73b.chunk.js": "/budget-planning/static/js/787.5d8ff73b.chunk.js",
     "static/media/Robotoblack.woff": "/budget-planning/static/media/Robotoblack.eab3a566ce722e08e453.woff",
@@ -15,12 +15,12 @@
     "static/media/Robotolight.woff2": "/budget-planning/static/media/Robotolight.95ff440a51f48ad36a98.woff2",
     "static/media/Roboto.woff2": "/budget-planning/static/media/Roboto.806e04d8241d87f99a68.woff2",
     "index.html": "/budget-planning/index.html",
-    "main.80ab0c62.css.map": "/budget-planning/static/css/main.80ab0c62.css.map",
+    "main.9ad58150.css.map": "/budget-planning/static/css/main.9ad58150.css.map",
     "main.96240a8a.js.map": "/budget-planning/static/js/main.96240a8a.js.map",
     "787.5d8ff73b.chunk.js.map": "/budget-planning/static/js/787.5d8ff73b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.80ab0c62.css",
+    "static/css/main.9ad58150.css",
     "static/js/main.96240a8a.js"
   ]
 }
